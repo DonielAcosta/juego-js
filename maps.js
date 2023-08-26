@@ -51,3 +51,44 @@ maps.push(`
   XX-----OXX
   XXXXXXXXXX
 `);
+//mapa 5
+// maps.push(`
+//   XXXXXXXXXX
+//   XXXX---OXX
+//   XX-XXXXXXX
+//   X--XXXXXXX
+//   X-XXXXXXXX
+//   X--XX---XX
+//   XX--XXX-XX
+//   XXXXXX-XXX
+//   XX-----IXX
+//   XXXXXXXXXX
+// `);
+
+// maps.push(`
+//   IXXXXXXXXX
+//   -XXXXXXXXX
+//   -XXXXXXXXX
+//   -XXXXXXXXX
+//   -XXXXXXXXX
+//   XXXXXX-XXX
+//   X--XX---XX
+//   XX--XXX-XX
+//   XXXXXX-XXX
+//   XXXXXXXXXX
+// `);
+
+// maps.push(`
+//   XXXXXXXXXX
+//   XX----XXXX
+//   XX-XXXXXXX
+//   X--XX---XX
+//   X--XXX-XXX
+//   XXXXX--XXX
+//   X--XXX-XXX
+//   XX--XX--XX
+//   XX---O--XX
+//   XXXXXXXXXX
+// `);
+
+
