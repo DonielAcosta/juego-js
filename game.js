@@ -1,5 +1,5 @@
 const canvas = document.querySelector('#game');
-const game = canvas.getContext('2d');
+const game   = canvas.getContext('2d');
 const btnUp = document.querySelector('#up');
 const btnLeft = document.querySelector('#left');
 const btnRight = document.querySelector('#right');
